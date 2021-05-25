@@ -1,0 +1,3 @@
+Twenty random cards are placed in a row all face down.
+A turn consists of taking two adjacent cards where the left one is face up and the right one can be face up or face down and flipping them both.
+Show that this process must terminate. (with all the cards facing up).
